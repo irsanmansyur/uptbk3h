@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://127.0.0.1/peternakan
+Data file = C:\AppServ\www\peternakan/wp-content/themes/greed/demo/demo-content.xml
+Widget file = C:\AppServ\www\peternakan/wp-content/themes/greed/demo/widgets.json
+Customizer file = C:\AppServ\www\peternakan/wp-content/themes/greed/demo/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Komentar Terbaru - No Title - Widget already exists
+Arsip - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Cari - Search - Imported
+HTML Khusus - No Title - Imported
+Teks - About Theme - Imported
+
+Top Left : 
+
+Cari - No Title - Imported
+
+Top Right : 
+
+HTML Khusus - No Title - Imported
+
+Footer 1 : 
+
+Teks - About Us - Imported
+
+Footer 2 : 
+
+Arsip - Archives - Imported
+
+Footer 3 : 
+
+Pos-pos Terbaru - Recent Posts - Imported
+
+Footer 4 : 
+
+HTML Khusus - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
